@@ -1,0 +1,28 @@
+{
+  "name": "express_intro",
+  "version": "1.0.0",
+  "description": "Project for Express Intro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vxiong029/express_intro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vxiong029/express_intro/issues"
+  },
+  "homepage": "https://github.com/vxiong029/express_intro#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "jquery": "^3.3.1"
+  },
+    "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/server.js"
+  }
+}
